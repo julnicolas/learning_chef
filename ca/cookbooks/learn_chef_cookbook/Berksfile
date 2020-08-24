@@ -1,0 +1,9 @@
+source 'https://supermarket.chef.io'
+
+metadata
+
+cookbook 'mysql', '~> 8.7.3'
+cookbook 'mysql2_chef_gem', '~> 2.1.0'
+cookbook 'database', '~> 6.1.1'
+cookbook 'poise-python', '~> 1.7.0'
+cookbook 'apache2', '~> 8.3.0'
